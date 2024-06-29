@@ -1,0 +1,6 @@
+Всего адресов: 3
+
+Адреса:
+Novosibirsk,Mira,85,64
+Omsk,Pushkina,2,13
+Moscow,Stroiteley,34,12
